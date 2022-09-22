@@ -1,13 +1,11 @@
-package study.demo;
+package study.firstSample;
 
 import org.assertj.core.api.Assertions;
-import org.junit.jupiter.api.BeforeAll;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import study.demo.member.Grade;
-import study.demo.member.Member;
-import study.demo.member.MemberService;
-import study.demo.member.MemberServiceImpl;
+import study.firstSample.member.Grade;
+import study.firstSample.member.Member;
+import study.firstSample.member.MemberService;
 
 public class MemberServiceTest {
 

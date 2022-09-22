@@ -1,13 +1,12 @@
-package study.demo.order;
+package study.firstSample.order;
 
 import org.assertj.core.api.Assertions;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
-import study.demo.AppConfig;
-import study.demo.member.Grade;
-import study.demo.member.Member;
-import study.demo.member.MemberService;
-import study.demo.member.MemberServiceImpl;
+import study.firstSample.AppConfig;
+import study.firstSample.member.Grade;
+import study.firstSample.member.Member;
+import study.firstSample.member.MemberService;
 
 public class OrderServiceTest {
     

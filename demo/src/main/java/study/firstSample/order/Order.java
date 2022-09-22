@@ -1,4 +1,4 @@
-package study.demo.order;
+package study.firstSample.order;
 
 public class Order {
 

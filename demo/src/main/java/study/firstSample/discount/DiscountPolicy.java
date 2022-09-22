@@ -1,6 +1,6 @@
-package study.demo.discount;
+package study.firstSample.discount;
 
-import study.demo.member.Member;
+import study.firstSample.member.Member;
 
 public interface DiscountPolicy {
 

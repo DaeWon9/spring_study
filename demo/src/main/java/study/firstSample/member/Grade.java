@@ -1,4 +1,4 @@
-package study.demo.member;
+package study.firstSample.member;
 
 public enum Grade {
     BASIC,

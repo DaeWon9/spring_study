@@ -1,10 +1,8 @@
-package study.demo.order;
+package study.firstSample.order;
 
-import study.demo.discount.DiscountPolicy;
-import study.demo.discount.FixDiscountPolicy;
-import study.demo.member.Member;
-import study.demo.member.MemberRepository;
-import study.demo.member.MemoryMemberRepository;
+import study.firstSample.discount.DiscountPolicy;
+import study.firstSample.member.Member;
+import study.firstSample.member.MemberRepository;
 
 public class OrderServiceImpl implements OrderService{
 

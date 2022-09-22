@@ -1,4 +1,4 @@
-package study.demo.member;
+package study.firstSample.member;
 
 import java.util.HashMap;
 import java.util.Map;
